@@ -27,14 +27,11 @@ style={styles.headerImage}
 {/* 3. Conteúdo da Página */}
 <View style={styles.contentContainer}>
 {/* Título e Subtítulo */}
-<Text style={styles.title}>Bertioga</Text>
-<Text style={styles.subtitle}>São Paulo</Text>
+<Text style={styles.title}>Arraial</Text>
+<Text style={styles.subtitle}>Rio de Janeiro</Text>
 {/* Texto de Descrição */}
 <Text style={styles.description}>
-Bertioga é um município do estado de São Paulo, no litoral da Baixada Santista,
-conhecido por suas belezas naturais, praias e área de Mata Atlântica.
-Funciona como a "porta de entrada" para o Litoral Norte do estado e atrai
-turistas que buscam lazer, aventura e contato com a natureza.
+Arraial do Cabo é conhecida por suas praias de beleza caribenha, com areias brancas e águas cristalinas de tons azuis e verdes, tanto calmas quanto com ondas, dependendo da localidade.
 </Text>
 {/* Imagem do Mapa */}
 <Image
